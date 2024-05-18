@@ -1,6 +1,8 @@
 ---
 title: "Welcome to my Blog"
 layout: post
+categories: [homelab, hardware]
+tags: [servers, amd, tplink, networking]
 ---
   
 Hello my name is Josh, and here I'll be posting update on the various projects and homelab technologies I'm working with.  
