@@ -41,4 +41,5 @@ Current Networking Hardware:
 [gns3]:         https://www.gns3.com/
 [wireguard]:    https://www.wireguard.com/
 [dashy]:        https://dashy.to/
+[llama3]:       https://ollama.com/
 
