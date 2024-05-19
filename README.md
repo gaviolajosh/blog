@@ -7,7 +7,7 @@ layout: page
 Hello my name is Josh, and here I'll be posting update on the various projects and homelab technologies I'm working with.  
 This site is hosted using [GitHub Pages][github-pages] with a fork of a [Jekyll][jekyll] theme as the main HTML coding.  
 
-Currently my Server Setup is a:  
+Currently *5/18/24* Server Setup is a:  
 * Proxmox machine using a Ryzen 5 2600x, Nvidia GEFORCE GTX 960, 16GB DDR4 RAM, 512GB SATA SSD, 1TB SATA HDD
   - Current Services:
     - [PiHole DNS][pihole]
