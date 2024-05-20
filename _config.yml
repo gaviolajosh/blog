@@ -1,6 +1,6 @@
-title: "Joshua Gaviola's personal website"
+title: "Joshua Gaviola"
 author: "Joshua Gaviola"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "A personal portfolio of things I like working on"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
