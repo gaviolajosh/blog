@@ -1,5 +1,5 @@
 ---
-title:  "PiHole setup"
+title:  "WireGuard setup"
 layout: post
 ---
 This took me a few days of failed configurations to finally figure out.  
