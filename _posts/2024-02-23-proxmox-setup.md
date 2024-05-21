@@ -8,6 +8,7 @@ This is the main hypervisor for my Homelab
 I used this [tutorial](https://www.youtube.com/watch?v=sZcOlW-DwrU) from [Craft Computing](https://www.youtube.com/@CraftComputing).
 
 
+
 I was unable to use a RAID/ZFS configuration due to my setup limit at the time of my homelab setup. So I opted to use LVM storage.  
 I plan on upgrading my storage array in the future with either former enterprise SAS HDDs or new SATA HDDs.  
 
