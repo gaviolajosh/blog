@@ -3,4 +3,4 @@ title:   Resume
 layout:  page
 ---
 
-<a href="Joshua_Gaviola_Resume_2024_PDF.pdf" class="image fit"><img src="Joshua_Gaviola_Resume_2024_PDF.jpg" alt=""></a>
+<object data="Joshua_Gaviola_Resume_2024_PDF.pdf" width="1000" height="1000" type='application/pdf'></object>
