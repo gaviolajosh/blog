@@ -6,6 +6,7 @@ So I found out that with Portainer a lot of the data is located within the porta
 
 
 
+
 I didn't realize the importance of user priviledge since for the most part, I could solve everything by using sudo in front of the command if access was denied.  
 I found this post on [askUbuntu](https://askubuntu.com/questions/578514/no-such-file-or-directory-when-chown-on-newly-created-directory) that had a similar problem to mine and in which they used the `chown` command to give access to the $USER.  
 
