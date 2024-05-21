@@ -2,6 +2,8 @@
 title:   Resume
 layout:  page
 ---
+[Download Resume](https://gaviola.github.io/joshua-gaviola-pdf.pdf)  
 
-![image](https://github.com/gaviolajosh/blog/assets/44041134/602e63d4-4cd2-432d-8d9a-5c203c82aeac)
+![image](https://github.com/gaviolajosh/blog/assets/44041134/926dbcc2-d5c8-4eae-9742-955bad768451)
+
 
