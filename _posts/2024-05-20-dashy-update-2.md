@@ -8,6 +8,7 @@ I didn't realize the importance of user priviledge since for the most part, I co
 I found this post on [askUbuntu](https://askubuntu.com/questions/578514/no-such-file-or-directory-when-chown-on-newly-created-directory) that had a similar problem to mine and in which they used the `chown` command to give access to the $USER.  
 
 I used a slightly modified version of the command from that post to give access and `ls` for the files in the folder, but I didn't find what I needed.  
+
 ![image](https://github.com/adnapJosh/blog/assets/44041134/b9552d76-55e5-48c3-b76b-1eed1833e40c)  
 
 The search for my Dashy config continues!  
