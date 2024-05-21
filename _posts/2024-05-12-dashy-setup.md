@@ -2,7 +2,6 @@
 title:  "Dashy setup"
 layout: post
 ---
-
 [Dashy](https://dashy.to/) has a very easy setup process with Docker which they have on the website's [quick start](https://dashy.to/docs/quick-start) guide.  
 
 ```
