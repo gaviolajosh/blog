@@ -16,8 +16,8 @@ minimal: true              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: About, icon: address-card, file: "README.md"}
-  - {title: Posts, icon: blog, file: "index.html"}
+  - {title: Joshua Gaviola, sidebaricon: address-card, file: "README.md"}
+  - {title: Posts, sidebaricon: blog, file: "index.html"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
