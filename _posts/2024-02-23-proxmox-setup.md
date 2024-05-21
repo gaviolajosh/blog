@@ -1,6 +1,6 @@
 ---
-  Title: Proxmox Setup
-  Type:  post
+  title: Proxmox Setup
+  layout:  post
 ---
 This is the main hypervisor for my Homelab  
 
