@@ -35,6 +35,7 @@ Current Networking Hardware:
   - [ ] Potentially move away from decentralized security and utilize a self-hosted NVR
 - [ ] Create a NAS machine(s)
 - [ ] Locally create SSL certificates for my services
+- [ ] Get a standalone PFsense device
 
 [github-pages]: https://pages.github.com/
 [jekyll]:       http://jekyllthemes.org/
