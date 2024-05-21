@@ -4,6 +4,9 @@ layout:  post
 ---
 
 In a lot of videos about homelabs, I've seen [PiHole](https://pi-hole.net/) be mentioned in almost all of them. It's a self-hosted DNS server which can block certain domains from entering your network (which a lot of times people use for ad blocking).  
+
+
+
 I used this [video](https://www.youtube.com/watch?v=FnFtWsZ8IP0) from [Craft Computing](https://www.youtube.com/@CraftComputing) as my main walkthrough on the setup, but PiHole setup is very well documented on the [PiHole GitHub](https://github.com/pi-hole/pi-hole/#one-step-automated-install).  
 
 ```
