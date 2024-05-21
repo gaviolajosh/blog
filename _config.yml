@@ -18,7 +18,7 @@ minimal: true              # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Joshua Gaviola, icon: address-card, file: "README.md"}
   - {title: Posts, icon: newspaper, file: "index.html"}
-  - {title: Resume, icon: file, file: "resume.html"}
+  - {title: Resume, icon: file, file: "resume.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jry.gaviola@gmail.com"}
