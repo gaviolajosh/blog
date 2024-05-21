@@ -2,9 +2,8 @@
   Title: Proxmox Setup
   Type:  post
 ---
+
 This is the main hypervisor for my Homelab  
-
-
 
 # **Setup Info**  
 I used this [tutorial](https://www.youtube.com/watch?v=sZcOlW-DwrU) from [Craft Computing](https://www.youtube.com/@CraftComputing).  
