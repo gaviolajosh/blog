@@ -1,6 +1,6 @@
 ---
-Title: Dashy|Docker update 2
-Type:  post
+title: Dashy/Docker update 2
+type:  post
 ---
 
 So I found out that with Portainer a lot of the data is located within the portainer_data, but I haven't been able to `cd` into some of the folders inside portainer_data.  
