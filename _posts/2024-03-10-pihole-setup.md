@@ -4,9 +4,6 @@ layout: post
 ---
 This took me a few days of failed configurations to finally figure out.  
 
-
-
-
 # **PiVPN Attempts**
 Intially I had used this [tutorial](https://www.youtube.com/watch?v=V9sWhnYQvpE) from [Homelab Tim](https://www.youtube.com/@HomelabTim), which used [PiVPN](https://www.pivpn.io/) as a method of adding Wireguard to an Ubuntu-Server LXC.
 Unfortunately I wasn't able to correctly conffigure it after multiple attempts using this method.
