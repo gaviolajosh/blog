@@ -16,7 +16,7 @@ minimal: true              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Joshua Gaviola, sidebaricon: address-card, file: "README.md"}
+  - {title: Joshua Gaviola, icon: address-card, file: "README.md"}
   - {title: Posts, sidebaricon: blog, file: "index.html"}
 
 
