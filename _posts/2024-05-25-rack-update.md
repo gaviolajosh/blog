@@ -6,7 +6,7 @@ layout:  post
 I've been searching for used server hardware on places like Facebook marketplace and Ebay, and I was able to find a few good deals to really organize my setup better.  
 I've 
 - flipped the desktop chassis horizontally to mimic a server chassis
-  - (I plan on moving everything to a 2U chassis in the future)
+  - (I plan on moving everything to a 2U short depth chassis in the future)
 - added a few more sturdier shelves
 - replaced the battery in my UPS with a higher AH one
 - added a watt meter to measure power draw
