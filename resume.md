@@ -6,4 +6,3 @@ layout:  page
   height="1200"
   width="1000"
   type="application/pdf"/>
-
