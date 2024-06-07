@@ -4,11 +4,12 @@ layout:  post
 ---
 
 I've been searching for used server hardware on places like Facebook marketplace and Ebay, and I was able to find a few good deals to help organize my setup better.  
-- flipped the desktop chassis horizontally to mimic a server chassis
+A few things I was able to do was:
+- flip the desktop chassis horizontally to mimic a server chassis
   - (I plan on moving everything to a 2U short depth chassis in the future)
-- added a few more sturdier shelves
-- replaced the battery in my UPS with a higher AH one
-- added a watt meter to measure power draw
+- add a few more sturdier shelves
+- replace the battery in my UPS with a higher AH one
+- add a watt meter to measure power draw
 
 
 I also realized that I'm running into some issues with the depth and post design of the server rack that I currently have. A lot of server hardware is very deep and my rack only has a depth of ~18" which prohibits me from using full length hardware.  
