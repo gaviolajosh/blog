@@ -7,8 +7,8 @@ layout: page
 Hello my name is Josh, and here I'll be posting update on the various projects and homelab technologies I'm working with.  
 This site is hosted using [GitHub Pages][github-pages] with a fork of a [Jekyll][jekyll] theme as the main HTML coding.  
 
-Currently *5/18/24* Server Setup is a:  
-* Proxmox machine using a Ryzen 5 2600x, Nvidia GEFORCE GTX 960, 16GB DDR4 RAM, 512GB SATA SSD, 1TB SATA HDD
+Currently *6/7/24* Server Setup is a:  
+* Proxmox machine using a Ryzen 7 3700x, Nvidia GEFORCE GTX 960, 16GB DDR4 RAM, 512GB SATA SSD, 1TB SATA HDD
   - Current Services:
     - [PiHole DNS][pihole]
     - DuckDNS
@@ -35,7 +35,7 @@ Current Networking Hardware:
   - [ ] Potentially move away from decentralized security and utilize a self-hosted NVR
 - [ ] Create a NAS machine(s)
 - [ ] Locally create SSL certificates for my services
-- [ ] Get a standalone PFsense device
+- [ ] Get a standalone PFsense/OpenWRT/OPNsense device
 
 [github-pages]: https://pages.github.com/
 [jekyll]:       http://jekyllthemes.org/
