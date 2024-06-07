@@ -2,7 +2,7 @@
 title:   Proxmox Server CPU Upgrade
 layout:  post
 ---
-Recently I was able to upgrade the CPU of my Proxmox host from a Ryzen 5 2600x (6c/12t) to a Ryzen 7 3700x (8c/16t).  
+Recently I was able to upgrade the CPU of my Proxmox host from a Ryzen 5 2600x (6c/12t) to a Ryzen 7 3700x (8c/16t).
 While the swap was not entirely necessary, I appreciate having the extra breathing room for my CPU usage which will allow me to utilize more CPU intensive VMs and services in the future.  
 
 
