@@ -5,6 +5,8 @@ layout: post
 
 I've been seeing a lot of job postings wanting experience in Active Directory, and since I don't have a way to gain that experience through my current job, I've decided to do the practice in my own homelab.  
 To start I needed 2 things, a Windows Server ISO and a Windows Enterprise ISO. Fortunately, Windows allows you to download the OS without having to pay for a license as a trial.  
+
+
 I opted to use [Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019) and [Windows 10 Enterprise LTSC](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise). 
 I could have used, Windows Server 2022 and Windows 11 Enterprise, but I figured that many businesses will be late to overhaulding the OS on most of their systems for a few years. However, I should practice on those versions in the future.  
 
