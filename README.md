@@ -20,13 +20,14 @@ Current *8/1/24* Server Setup is a:
 
   - Current Services:
     - [PiHole DNS][pihole]
-    - DuckDNS
-    - Portainer
-    - [GNS3][gns3]
+    - [DuckDNS][duckdns]
+    - [Portainer][portainer]
+    - ~~GNS3~~ (switched to EVE-NG for now)
     - [Wireguard][wireguard]
+    - [Glances][glances]
     - [Dashy][dashy]
     - [EVE-NG][eve-ng]
-    - Active Directory Testing VM
+    - [Active Directory][ad] Through a Windows Server 2019 Test VM
 * Main computer/[LLama3][llama3] host with a Ryzen 5 5600x, Radeon RX 6600XT, 32GB DDR4 RAM, 1TB NVME SSD  
 
 Current Networking Hardware:  
@@ -51,10 +52,13 @@ Current Networking Hardware:
 
 [github-pages]: https://pages.github.com/
 [jekyll]:       http://jekyllthemes.org/
-[pihole]:       https://pi-hole.net/
-[gns3]:         https://www.gns3.com/
-[wireguard]:    https://www.wireguard.com/
-[dashy]:        https://dashy.to/
+[pihole]:       https://gaviolajosh.github.io/blog/pihole-setup/
+[wireguard]:    https://gaviolajosh.github.io/blog/wireguard-setup/
+[dashy]:        https://gaviolajosh.github.io/blog/dashy-setup/
 [llama3]:       https://ollama.com/
-[eve-ng]:       https://www.eve-ng.net/
+[eve-ng]:       https://gaviolajosh.github.io/blog/eve-ng/
+[portainer]:    https://www.portainer.io/
+[duckdns]:      https://www.duckdns.org/
+[ad]:           https://gaviolajosh.github.io/blog/active-directory/
+[glances]:      https://gaviolajosh.github.io/blog/glances/
 
