@@ -25,6 +25,8 @@ Current *8/1/24* Server Setup is a:
     - [GNS3][gns3]
     - [Wireguard][wireguard]
     - [Dashy][dashy]
+    - [EVE-NG][eve-ng]
+    - Active Directory Testing VM
 * Main computer/[LLama3][llama3] host with a Ryzen 5 5600x, Radeon RX 6600XT, 32GB DDR4 RAM, 1TB NVME SSD  
 
 Current Networking Hardware:  
@@ -33,7 +35,7 @@ Current Networking Hardware:
 * TP-Link POE injector
 * TP-Link EAP223
 * APC UPS BE550G
-* Navepoint 12U rack  
+* Rosewill 25U 4 post adjustable rack
 
 # Future Plans
 - [ ] Organize my current homelab setup better
@@ -54,5 +56,5 @@ Current Networking Hardware:
 [wireguard]:    https://www.wireguard.com/
 [dashy]:        https://dashy.to/
 [llama3]:       https://ollama.com/
-
+[eve-ng]:       https://www.eve-ng.net/
 
